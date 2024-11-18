@@ -4,4 +4,4 @@
 - Saraksts 2
 
   **Uzsvērts teksts**
-  [Saite uz Google][https://www.google.com
+  [Saite uz Google](https://www.google.com)
